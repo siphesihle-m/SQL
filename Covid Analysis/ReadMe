@@ -1,0 +1,3 @@
+Covid data downloaded from ourworldindata.org/covid-deaths. 
+I cleaned the csv file on excel and created two tables one for deaths and one for vaccination data. 
+Exported the two tables into excel workbooks.
